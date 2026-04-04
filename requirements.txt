@@ -4,3 +4,5 @@ python-multipart==0.0.9
 ultralytics==8.0.196
 opencv-python-headless==4.9.0.80
 numpy==1.26.4
+torch==2.0.1
+torchvision==0.15.2
